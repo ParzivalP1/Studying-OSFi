@@ -1,1 +1,1 @@
-# Studying-OSFi
+# Studying-OSGi
