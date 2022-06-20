@@ -1,0 +1,3 @@
+org\service\printer\PrinterActivator.class
+org\service\printer\PrinterRelease.class
+org\service\printer\IPrinter.class
